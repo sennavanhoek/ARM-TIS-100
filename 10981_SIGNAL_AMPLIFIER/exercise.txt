@@ -1,0 +1,8 @@
+       - SIGNAL AMPLIFIER -
+╔═══════════════════════════════╗
+║ > READ A VALUE FROM IN.A      ║
+║ > DOUBLE THE VALUE            ║
+║ > WRITE THE VALUE TO OUT.A    ║
+║                               ║
+╚═══════════════════════════════╝
+

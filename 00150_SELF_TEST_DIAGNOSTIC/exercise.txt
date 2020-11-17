@@ -1,0 +1,9 @@
+      - SELF-TEST DIAGNOSTIC -
+╔═════════════════════════════════╗
+║ > READ A VALUE FROM IN.X AND    ║
+║ WRITE THE VALUE TO OUT.X        ║
+║ > READ A VALUE FROM IN.A AND    ║
+║ WRITE THE VALUE TO OUT.A        ║
+║                                 ║
+╚═════════════════════════════════╝
+

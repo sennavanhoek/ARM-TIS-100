@@ -1,0 +1,9 @@
+         - SEQUENCE COUNTER -
+╔════════════════════════════════════╗
+║ > SEQUENCES ARE ZERO-TERMINATED    ║
+║ > READ A SEQUENCE FROM IN          ║
+║ > WRITE THE SUM TO OUT.S           ║
+║ > WRITE THE LENGTH TO OUT.L        ║
+║                                    ║
+╚════════════════════════════════════╝
+

@@ -1,0 +1,9 @@
+      - SIGNAL PATTERN DETECTOR -
+╔════════════════════════════════════╗
+║ > READ A VALUE FROM IN             ║
+║ > LOOK FOR THE PATTERN 0,0,0       ║
+║ > WRITE 1 WHEN PATTERN IS FOUND    ║
+║ > IF NOT TRUE, WRITE 0 INSTEAD     ║
+║                                    ║
+╚════════════════════════════════════╝
+

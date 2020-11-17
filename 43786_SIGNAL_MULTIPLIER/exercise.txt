@@ -1,0 +1,8 @@
+          - SIGNAL MULTIPLIER-
+╔═════════════════════════════════════╗
+║ > READ VALUES FROM IN.A AND IN.B    ║
+║ > MULTIPLY THE VALUES               ║
+║ > WRITE THE PRODUCT TO OUT          ║
+║                                     ║
+╚═════════════════════════════════════╝
+
