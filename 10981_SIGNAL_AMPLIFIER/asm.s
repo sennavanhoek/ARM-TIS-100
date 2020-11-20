@@ -9,5 +9,5 @@
     .type asm_code, @function
 
 asm_code:
-	LSL X1, X1, #1
+	LSL X0, X0, #1
 	RET
