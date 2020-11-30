@@ -1,5 +1,6 @@
 # ARM-064
 An experiment to play TIS-100 levels with real assembly.  
+You can read more about it in this [blogpost](https://sennavanhoek.github.io/assembly-game/).  
 
 ## Non AArch64 Linux setup
 you will need to install the following packages  
