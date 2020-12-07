@@ -5,10 +5,7 @@
 // OUT.P = [X0]
 // OUT.N = [X0, #8]
 ////////////////////////
-   .section  ASM_CODE,"ax"
-    .align 3
     .global asm_code
-    .type asm_code, @function
 
 asm_code:
 	SUB X3, X1, X2

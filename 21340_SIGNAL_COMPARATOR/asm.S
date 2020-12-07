@@ -5,11 +5,8 @@
 // OUT.E = [X0, #8]
 // OUT.L = [X0, #16]
 ////////////////////////
-   .section  ASM_CODE,"ax"
-    .align 3
     .global asm_code
-    .type asm_code, @function
-    
+
 asm_code:
 	CMP X1, #0
 	CSET X2, LT

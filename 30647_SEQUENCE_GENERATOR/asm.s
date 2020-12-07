@@ -5,10 +5,7 @@
 // OUT = [X0]
 // OUT points to the next position in the array
 ////////////////////////
-   .section  ASM_CODE,"ax"
-    .align 3
     .global asm_code
-    .type asm_code, @function
 
 asm_code:
 	CMP X1, X2

@@ -6,11 +6,8 @@
 // OUT.S = [[X0]]
 // OUT.L = [[X0], #8]
 ////////////////////////
-   .section  ASM_CODE,"ax"
-    .align 3
     .global asm_code
-    .type asm_code, @function
-    
+
 asm_code:
 	LDR X4, [X0], #8
 	LDR X3, [X0]

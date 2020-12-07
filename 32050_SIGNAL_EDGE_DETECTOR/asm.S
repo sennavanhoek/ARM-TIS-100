@@ -4,11 +4,8 @@
 // Current index in IN = X1
 // OUT = X0
 ////////////////////////
-   .section  ASM_CODE,"ax"
-    .align 3
     .global asm_code
-    .type asm_code, @function
-    
+
 asm_code:
 	CMP X1, #0
 	B.EQ zero
