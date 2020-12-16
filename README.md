@@ -1,4 +1,4 @@
-# ARM-064
+# ARM-TIS-100
 An experiment to play TIS-100 levels with real assembly.  
 You can read more about it in this [blogpost](https://sennavanhoek.github.io/assembly-game/).  
 
